@@ -29,3 +29,5 @@ Deliverable:
 - main.cpp
 - 1–2 min video explaining logic + demo run
 - Upload to GitHub (fork this repo first)
+
+youtube.com/https://www.youtube.com/shorts/TaMulio6_10 
